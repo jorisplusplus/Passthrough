@@ -9,4 +9,4 @@
 #
 # raid1
 # sd_mod
-pci_stub ids=1002:67b0,1002:aac8,1033:0035,1033:00e0
+pci_stub ids=1002:67b0,1002:aac8
